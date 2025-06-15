@@ -171,10 +171,3 @@ document.querySelectorAll('.fade-in').forEach(el => {
     ├── catsoup.png
     ├── chap.png
     └── bass.jpg
-
-
-**GitHub**: [github.com/nunuragu](https://github.com/nunuragu)
-
----
-
-*이 포트폴리오는 정보 교사를 꿈꾸는 컴퓨터공학과 학생 한원석의 기술적 역량과 교육에 대한 열정을 보여줍니다.*
